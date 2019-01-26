@@ -1,7 +1,18 @@
 # About
 
-This is a stub implementation of incorporating external data.
-More functionality to follow.
+**WARNING**: This provides an unstable API, and has zero commitment to backwards
+compatibility. Some documentation may also be stale.
+
+[![Travis CI](https://img.shields.io/travis/com/eacousineau/bazel-external-data/master.svg)](https://travis-ci.com/eacousineau/bazel-external-data)
+
+Tested on CI:
+
+* Basic Bazel functionality, command-line expectations.
+
+Not Tested on CI:
+
+* Girder Backend
+* Lint
 
 # For Consumers of `external_data`
 
